@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\bin\Debug\EjemploProyectoTopicos.exe.config
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\bin\Debug\EjemploProyectoTopicos.exe
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\bin\Debug\EjemploProyectoTopicos.pdb
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.Form1.resources
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.exe
+C:\Users\Eduardo\Desktop\EjemploProyectoTopicos\EjemploProyectoTopicos\obj\Debug\EjemploProyectoTopicos.pdb
